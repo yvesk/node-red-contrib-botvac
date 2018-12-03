@@ -1,0 +1,19 @@
+{
+  "name": "node-red-contrib-botvac",
+  "version": "0.1.0",
+  "description": "Unofficial Node-RED botvac nodes",
+  "main": "botvac-authorize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yves Kurz",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvesk/node-red-contrib-botvac.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yvesk/node-red-contrib-botvac/issues"
+  },
+  "homepage": "https://github.com/yvesk/node-red-contrib-botvac#readme"
+}
